@@ -1,5 +1,6 @@
 ﻿# 作业看板 HomeworkBoard
 使用deepseek制作
+
 一个放在 Windows 桌面角落的轻量作业看板：按截止时间从近到远排列，清楚显示科目、平台和剩余时间。
 
 ![作业看板预览](preview.png)
