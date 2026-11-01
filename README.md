@@ -2,11 +2,11 @@
 
 一个放在 Windows 桌面角落的轻量作业看板：按截止时间从近到远排列，清楚显示科目、平台和剩余时间。
 
-![作业看板预览](dist/preview.png)
+![作业看板预览](preview.png)
 
 没有作业时，它会缩成一块接近透明的淡白色卡片：
 
-![空看板](dist/preview-empty.png)
+![空看板](preview-empty.png)
 
 ## 快速开始
 
