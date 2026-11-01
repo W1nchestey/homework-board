@@ -6,7 +6,7 @@
 
 没有作业时，它会缩成一块接近透明的淡白色卡片：
 
-![空看板](dist/preview-empty.png)
+![空看板](preview-empty.png)
 
 ## 快速开始
 
